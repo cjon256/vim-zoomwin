@@ -15,4 +15,4 @@ endfunction
 
 command! ZoomToggle call s:ZoomToggle()
 
-noremap <silent> <Leader>z :ZoomToggle<CR>
+" noremap <silent> <Leader>z :ZoomToggle<CR>
